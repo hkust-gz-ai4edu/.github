@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://ai4edu.hxu04129.chatgpt.site/zh/"><strong>项目官网 · 中文</strong></a> &nbsp; / &nbsp;
-  <a href="https://ai4edu.hxu04129.chatgpt.site/en/"><strong>Website · English</strong></a> &nbsp; / &nbsp;
-  <a href="https://ai4edu.hxu04129.chatgpt.site/zh/team/">认识团队 · Team</a> &nbsp; / &nbsp;
-  <a href="https://ai4edu.hxu04129.chatgpt.site/zh/onboarding/">加入协作 · Get involved</a>
+  <a href="https://machinerevo.tail80b317.ts.net:10000/zh/"><strong>项目官网 · 中文</strong></a> &nbsp; / &nbsp;
+  <a href="https://machinerevo.tail80b317.ts.net:10000/en/"><strong>Website · English</strong></a> &nbsp; / &nbsp;
+  <a href="https://machinerevo.tail80b317.ts.net:10000/zh/team/">认识团队 · Team</a> &nbsp; / &nbsp;
+  <a href="https://machinerevo.tail80b317.ts.net:10000/zh/onboarding/">加入协作 · Get involved</a>
 </p>
 
 ## 让真实实验，成为看得见的学习。
@@ -43,6 +43,6 @@ The project is in **research and prototype development**. The website presents p
 
 We welcome students and collaborators interested in laboratory education, computer vision, AI systems, interaction design and user research.
 
-1. **了解项目与团队** — 从[项目官网](https://ai4edu.hxu04129.chatgpt.site/zh/)和[团队介绍](https://ai4edu.hxu04129.chatgpt.site/zh/team/)开始。 / Explore the [project](https://ai4edu.hxu04129.chatgpt.site/en/) and [team](https://ai4edu.hxu04129.chatgpt.site/en/team/).
-2. **进入协作空间** — 使用 GitHub 登录，从[入门页面](https://ai4edu.hxu04129.chatgpt.site/zh/onboarding/)开始申请加入或查看个人入门任务。 / Sign in with GitHub through [onboarding](https://ai4edu.hxu04129.chatgpt.site/en/onboarding/) to apply or find your starter tasks.
+1. **了解项目与团队** — 从[项目官网](https://machinerevo.tail80b317.ts.net:10000/zh/)和[团队介绍](https://machinerevo.tail80b317.ts.net:10000/zh/team/)开始。 / Explore the [project](https://machinerevo.tail80b317.ts.net:10000/en/) and [team](https://machinerevo.tail80b317.ts.net:10000/en/team/).
+2. **进入协作空间** — 可先阅读[入门说明](https://machinerevo.tail80b317.ts.net:10000/zh/onboarding/)；GitHub 登录协作入口正在接入验证。 / Explore the [onboarding guide](https://machinerevo.tail80b317.ts.net:10000/en/onboarding/); GitHub sign-in for collaboration is undergoing integration verification.
 3. **参与具体工作** — 项目通过 Issue、Pull Request 与评审协作；研发仓库按项目权限开放。 / Work through issues, pull requests and reviews, with repository access granted per project.
