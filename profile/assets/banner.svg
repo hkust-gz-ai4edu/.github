@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">AI4Edu · HKUST(GZ)</title>
+  <desc id="desc">AI for hands-on learning. A learning path connects preparation, practice and reflection.</desc>
+  <rect width="1280" height="320" rx="12" fill="#10263D"/>
+  <path d="M64 62H108" stroke="#56C4B5" stroke-width="4"/>
+  <text x="64" y="150" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-3">AI4Edu</text>
+  <text x="66" y="202" fill="#D6E3ED" font-family="Arial, Helvetica, sans-serif" font-size="25">AI for hands-on learning.</text>
+  <text x="66" y="264" fill="#93AFBF" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">HKUST(GZ)</text>
+  <path d="M704 138H1166" stroke="#34536A" stroke-width="2"/>
+  <path d="M704 138H935" stroke="#56C4B5" stroke-width="2"/>
+  <circle cx="704" cy="138" r="9" fill="#56C4B5"/>
+  <circle cx="935" cy="138" r="16" fill="#10263D" stroke="#56C4B5" stroke-width="2"/>
+  <circle cx="935" cy="138" r="6" fill="#56C4B5"/>
+  <circle cx="1166" cy="138" r="9" fill="#10263D" stroke="#7892A6" stroke-width="2"/>
+  <g fill="#D6E3ED" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1.5" text-anchor="middle">
+    <text x="704" y="189">PREPARE</text>
+    <text x="935" y="189">PRACTICE</text>
+    <text x="1166" y="189">REFLECT</text>
+  </g>
+  <text x="935" y="240" fill="#93AFBF" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">Real practice. Thoughtful guidance.</text>
+</svg>
